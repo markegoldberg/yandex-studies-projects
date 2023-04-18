@@ -5,7 +5,7 @@
 
 |   Наименование проекта|   Описание|   Стек|
 | :------------------------------ | :------------------| :------------------------------------- |
-| [Как рассказать историю](https://github.com/aq2003/Portfolio/tree/main/Gold%20Recovery) | Анализ рынка общепита в Москве, <br/>определение формата и района<br/>для открытия нового кафе | `python`, `pandas`, `matplotlib`, `plotly`, `seaborn`|
+| [Как рассказать историю](https://github.com/markegoldberg/yandex-studies-projects/tree/main/Research%20of%20the%20public%20catering%20market%20in%20Moscow) | Анализ рынка общепита в Москве, <br/>определение формата и района<br/>для открытия нового кафе | `python`, `pandas`, `matplotlib`, `plotly`, `seaborn`|
 | [Прогноз количества заказов<br/> для сервиса такси](https://github.com/aq2003/Portfolio/tree/main/Taxi%20Service) | Прогноз количества заказов в аэропортах <br/>для сервиса такси с целью более точного <br/>планирования количества доступных <br/>автомобилей | python, pandas, numpy, statsmodels, sklearn, CatBoost, matplotlib |
 | [Анализ текстов](https://github.com/aq2003/Portfolio/tree/main/Analyzing%20Texts) | Анализ комментариев пользователей на токсичность             | python, pandas, numpy, nltk, sklearn, CatBoost |
 
