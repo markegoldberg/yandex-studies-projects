@@ -1,7 +1,7 @@
 
 # Прогнозирование вероятности оттока пользователей для фитнес-центров
 
-[HTML](https://github.com/markegoldberg/yandex-studies-projects/blob/main/Research%20of%20the%20public%20catering%20market%20in%20Moscow/pr9_html.html)     [ipynb](https://github.com/markegoldberg/yandex-studies-projects/blob/main/Research%20of%20the%20public%20catering%20market%20in%20Moscow/pr9_catering_moscow.ipynb)
+[HTML](https://github.com/markegoldberg/yandex-studies-projects/blob/main/Churn%20Prediction%20for%20Fitness/pr12_html.html)     [ipynb](https://github.com/markegoldberg/yandex-studies-projects/blob/main/Churn%20Prediction%20for%20Fitness/pr12_churn_prediction.ipynb)
 
 ## Описание проекта
 
