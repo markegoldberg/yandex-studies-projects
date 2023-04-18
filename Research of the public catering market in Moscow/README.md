@@ -1,6 +1,6 @@
 # Исследование рынка общепита в Москве
 
-[HTML](https://github.com/aq2003/Portfolio/blob/main/Gold%20Recovery/P9_Portfolio.html)     [ipynb](https://github.com/aq2003/Portfolio/blob/main/Gold%20Recovery/P9_Portfolio.ipynb)
+[HTML](https://github.com/markegoldberg/yandex-studies-projects/blob/main/Research%20of%20the%20public%20catering%20market%20in%20Moscow/pr9_html.html)     [ipynb](https://github.com/markegoldberg/yandex-studies-projects/blob/main/Research%20of%20the%20public%20catering%20market%20in%20Moscow/pr9_catering_moscow.ipynb)
 
 ## Описание проекта
 
