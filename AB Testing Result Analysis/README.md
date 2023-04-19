@@ -1,6 +1,6 @@
 # Анализ корректности проведения и результатов АВ теста
 
-[HTML](https://github.com/markegoldberg/yandex-studies-projects/blob/main/AB%20Testing%20Result%20Analysis/pr10_html.html)     [ipynb](https://github.com/markegoldberg/yandex-studies-projects/blob/main/AB%20Testing%20Result%20Analysis/pr10_ab_test.ipynb)
+[\[ipynb\]](https://github.com/markegoldberg/yandex-studies-projects/blob/main/AB%20Testing%20Result%20Analysis/pr10_ab_test.ipynb)
 
 ## Описание проекта
 
