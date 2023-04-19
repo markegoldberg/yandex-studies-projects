@@ -1,6 +1,6 @@
 # Анализ корректности проведения и результатов АВ теста
 
-[HTML](https://github.com/markegoldberg/yandex-studies-projects/blob/main/Research%20of%20the%20public%20catering%20market%20in%20Moscow/pr9_html.html)     [ipynb](https://github.com/markegoldberg/yandex-studies-projects/blob/main/Research%20of%20the%20public%20catering%20market%20in%20Moscow/pr9_catering_moscow.ipynb)
+[HTML](https://github.com/markegoldberg/yandex-studies-projects/blob/main/AB%20Testing%20Result%20Analysis/pr10_html.html)     [ipynb](https://github.com/markegoldberg/yandex-studies-projects/blob/main/AB%20Testing%20Result%20Analysis/pr10_ab_test.ipynb)
 
 ## Описание проекта
 
