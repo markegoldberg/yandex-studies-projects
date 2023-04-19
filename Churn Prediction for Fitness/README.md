@@ -1,7 +1,7 @@
 
 # Прогнозирование вероятности оттока пользователей для фитнес-центров
 
-[HTML](https://github.com/markegoldberg/yandex-studies-projects/blob/main/Churn%20Prediction%20for%20Fitness/pr12_html.html)     [ipynb](https://github.com/markegoldberg/yandex-studies-projects/blob/main/Churn%20Prediction%20for%20Fitness/pr12_churn_prediction.ipynb)
+[\[ipynb\]](https://github.com/markegoldberg/yandex-studies-projects/blob/main/Churn%20Prediction%20for%20Fitness/pr12_churn_prediction.ipynb)
 
 ## Описание проекта
 
