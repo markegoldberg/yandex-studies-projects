@@ -1,7 +1,7 @@
 # Предпочтение пользователей сервиса чтения книг по подписке
 
 [\[ipynb\]](https://github.com/markegoldberg/yandex-studies-projects/blob/main/SQL/SQL_git.ipynb)
-[\[html\]](https://github.com/markegoldberg/yandex-studies-projects/blob/main/SQL/SQL_html.html)
+[\[html\]](https://github.com/markegoldberg/yandex-studies-projects/blob/main/SQL/SQL_git_html.html)
 
 ## Описание проекта
 
