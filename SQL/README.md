@@ -1,6 +1,7 @@
 # Предпочтение пользователей сервиса чтения книг по подписке
 
-[\[ipynb\]](https://github.com/markegoldberg/yandex-studies-projects/blob/main/Research%20of%20the%20public%20catering%20market%20in%20Moscow/pr9_catering_moscow.ipynb)
+[\[ipynb\]](https://github.com/markegoldberg/yandex-studies-projects/blob/main/SQL/SQL_git.ipynb)
+[\[html\]](https://github.com/markegoldberg/yandex-studies-projects/blob/main/SQL/SQL_html.html)
 
 ## Описание проекта
 
@@ -10,6 +11,6 @@
 ## Выполненые задачи
 
 - Для выполнения запросов SQL использовал Python-скрипт.
-- Создал подключение к БД 'posgreSQL', используя `sqlalchemy`.
+- Создал подключение к БД `posgreSQL`, используя `sqlalchemy`.
 - Написал и выполнил 5 SQL-запросов к БД в синтаксисе Postgres.
 
